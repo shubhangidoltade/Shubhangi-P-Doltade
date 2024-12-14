@@ -16,7 +16,8 @@ I am on a journey to become a skilled **Data Analyst** with a deep interest in w
 
 Here are a few of the projects I’ve worked on:
 
-1. **Crowdfunding Analysis**  
+1. **Crowdfunding Analysis**
+2. **HR Analytics**  
   
 ## 📈 Let’s Connect
 
