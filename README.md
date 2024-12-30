@@ -21,7 +21,7 @@ Here are a few of the projects I’ve worked on:
   
 ## 📈 Let’s Connect
 
-- 🔗 **LinkedIn**:https://www.linkedin.com/in/shubhangi-doltade-9a5970201
+- 🔗 **LinkedIn**:https://www.linkedin.com/in/shubhangidoltade-dataanalyst
 - 📧 **Email**: doltadeshubhangi@gmail.com
 
 Feel free to check out my repositories for detailed project work, and if you're interested in collaborating or sharing insights, don’t hesitate to reach out!
