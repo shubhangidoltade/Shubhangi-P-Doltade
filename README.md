@@ -18,7 +18,9 @@ Here are a few of the projects I’ve worked on:
 
 1. **Crowdfunding Analysis**
 2. **HR Analytics**
-3. **Super Store Data Analytics** 
+3. **Super Store Data Analytics**
+4. **Supply Chain Analytics**
+
   
 ## 📈 Let’s Connect
 
